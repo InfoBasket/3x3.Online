@@ -1,0 +1,11 @@
+{
+    "PAGES": {
+        "HOME": {
+            "TITLE": "App works !",
+            "HELLO_ALL": "Hello All !!!"
+        },
+        "BASE": {
+            "LOADING": "Loading..."
+        }
+    }
+}
